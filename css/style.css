@@ -152,7 +152,7 @@ p.lead {
 }
 
 .light-bg {
-    background-color: #faf6fb;
+    background-color: #ffffff;
 }
 
 .section {
@@ -189,9 +189,9 @@ p.lead {
 .nav-menu.is-scrolling,
 .nav-menu.menu-is-open {
     background-color: rgb(180, 230, 247);
-    background: -moz-linear-gradient(135deg, rgb(111, 207, 240) 0%, rgb(255, 100, 130) 100%);
-    background: -webkit-linear-gradient(135deg, rgb(111, 207, 240) 0%, rgb(255, 100, 130) 100%);
-    background: linear-gradient(135deg, rgb(111, 207, 240) 0%, rgb(255, 100, 130) 100%);
+    background: -moz-linear-gradient(135deg, rgb(111, 207, 240) 0%, rgb(111, 207, 240) 0%);
+    background: -webkit-linear-gradient(135deg, rgb(111, 207, 240) 0%, rgb(111, 207, 240) 0%);
+    background: linear-gradient(135deg, rgb(111, 207, 240) 0%,  rgb(111, 207, 240) 0%);
     -webkit-box-shadow: 0px 5px 23px 0px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0px 5px 23px 0px rgba(0, 0, 0, 0.1);
     box-shadow: 0px 5px 23px 0px rgba(0, 0, 0, 0.1);
