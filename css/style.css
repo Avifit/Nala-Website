@@ -55,13 +55,13 @@ h1 {
 h2 {
     font-size: 45px;
     font-weight: 300;
-    color: #FF6482;
+    color: rgb(37, 34, 35);
     letter-spacing: -1px;
     margin-bottom: 1rem;
 }
 
 h3 {
-    color: #FF6482;
+    color: rgb(111, 207, 240);
     font-size: 33px;
     font-weight: 500;
 }
