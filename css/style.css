@@ -55,7 +55,7 @@ h1 {
 h2 {
     font-size: 45px;
     font-weight: 300;
-    color: rgb(37, 34, 35);
+    color: #ff6482;
     letter-spacing: -1px;
     margin-bottom: 1rem;
 }
@@ -84,7 +84,7 @@ p {
 }
 
 p.lead {
-    color: #ff6482;
+    color: rgb(37, 34, 35);
     margin-bottom: 2rem;
 }
 
